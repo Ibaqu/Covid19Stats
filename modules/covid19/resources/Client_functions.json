@@ -1,0 +1,1 @@
+{"ibaqu/covid19Cases.covid19:0.1.0" : [{"function":{"name":"getStatusByCountry","requiredParams":[{"yesterday":["string"]},{"country":["string"]},{"twoDaysAgo":["string"]},{"allowNull":["string"]},{"strict":["string"]}],"returnType":["ibaqu/covid19Cases.covid19:0.1.0:CovidCountry"]}}]}

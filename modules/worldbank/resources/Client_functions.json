@@ -1,0 +1,1 @@
+{"ibaqu/covid19Cases.worldbank:0.1.0" : [{"function":{"name":"getPopulationByCountry","requiredParams":[{"date":["string"]},{"country_code":["string"]},{"per_page":["int"]},{"page":["int"]}],"returnType":["ibaqu/covid19Cases.worldbank:0.1.0:CountryPopulation[]"]}}]}
